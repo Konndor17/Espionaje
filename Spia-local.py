@@ -1,7 +1,7 @@
 import os
 import time
 import pyfiglet # pip install -r requirements.txt
-import keyboard # Python.exe Monitoreo-remoto.py
+import keyboard # Python.exe Spia-local.py
 import numpy as np  # Importar numpy para funciones relacionadas con matrices
 import cv2  # Importar OpenCV para procesamiento de imágenes y videos
 import pyautogui  # Importar pyautogui para captura de pantalla
